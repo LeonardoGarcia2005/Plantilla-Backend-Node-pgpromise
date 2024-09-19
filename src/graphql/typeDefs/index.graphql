@@ -1,0 +1,10 @@
+scalar JSON
+scalar miTimestamp
+
+type Query {
+  canal(id: ID!): Canal
+
+}
+
+# type Mutation {
+# }

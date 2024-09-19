@@ -1,0 +1,7 @@
+type Canal {
+  id: ID!
+  nombre: String
+  estado: Int
+  fecha_creacion: miTimestamp
+  fecha_desactivacion:miTimestamp
+}
